@@ -10,3 +10,5 @@ https://drive.google.com/file/d/1c_E6OgQlTXNLNRaxUaDBWtJTxunPJ6EL/view?usp=share
    https://drive.google.com/file/d/1axLQnrDc-jUCAcXTNZ2LRDhzmxDmmnb3/view?usp=share_link
    -Konfigurasi SSH
    https://drive.google.com/file/d/1pNDZcIGvpC4ZS9HWm7W5QQTwa4iCvrDf/view?usp=share_link
+   - Install Ngrok
+     
